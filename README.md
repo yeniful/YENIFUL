@@ -1,16 +1,23 @@
-### Hi there 👋
+# 🔰 PETITE YENI
 
-<!--
-**yeniful/YENIFUL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### PROFILE
 
-Here are some ideas to get you started:
+💙   YENI HWANG
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍   Incheon, Korea
+
+💌   dev.yeeun@gmail.com
+
+📕   #C  #Cpp  #Python  #Swift
+
+
+
+### CAREER
+
+TYPE | CONTENTS | TERM | ORGANIZATION
+---- | ---- | ---- | ----
+🎓 EDU | 🇫🇷 French Language and Culture | Mar.2016 - Feb.2021 | Inha university
+🎓 EDU | 🎞 Culture contents and Cultural management | Mar.2017 - Feb.2021 | Inha university
+🎓 EDU | 🖥 Software Convergence Course | Mar.2018 - Feb.2021 | Inha university
+🎓 EDU | 🇫🇷 DEUF (Diplôme d'Etudes Universitaires Françaises) | Jan.2020 - Mar.2020 | Université Jean Moulin Lyon 3
+
