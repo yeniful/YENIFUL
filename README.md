@@ -8,7 +8,7 @@
 
 💌   dev.yeeun@gmail.com
 
-📕   #C  #Cpp  #Python  #Swift
+📕   #iOS  #Swift  #Cpp  #Python
 
 
 ### CAREER
