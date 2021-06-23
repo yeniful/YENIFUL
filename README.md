@@ -10,5 +10,5 @@
 
 🗒  https://yeniful.tistory.com/
 
-📕   #iOS  #Swift  #Cpp  #Python  #Java
+📕   #iOS  #Swift  #Cpp  #Python
 
