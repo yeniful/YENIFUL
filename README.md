@@ -1,4 +1,4 @@
-# 🔰 Petite Yeni
+# Petite Yeni
 
 ### PROFILE
 
