@@ -1,5 +1,3 @@
-# Petite Yeni
-
 ### PROFILE
 
 💙   YENI HWANG
