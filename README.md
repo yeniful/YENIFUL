@@ -6,5 +6,5 @@
 
 🗒  https://yeniful.tistory.com/
 
-📕   #iOS  #Swift  #Cpp  #Python
+📕   #iOS  #Swift
 
