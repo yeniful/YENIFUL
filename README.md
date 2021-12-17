@@ -2,7 +2,7 @@
 
 💙   YENI HWANG
 
-💌   yeniful@kakao.com
+💌   yeniful@icloud.com
 
 🗒  https://yeniful.tistory.com/
 
