@@ -1,4 +1,6 @@
+<!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=YENI%20CODE&fontSize=50)
+-->
 
 #### YENI (@yeniful) 
 ![iOS_Dveloper](https://img.shields.io/badge/iOS_Developer-000000?style=flat-square&logo=apple&logoColor=white)   
