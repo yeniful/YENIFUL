@@ -3,20 +3,21 @@
 -->
 
 #### YENI (@yeniful) 
-![iOS_Dveloper](https://img.shields.io/badge/iOS_Developer-000000?style=flat-square&logo=apple&logoColor=white)   
+##### Objective   
+![iOS_Dveloper](https://img.shields.io/badge/iOS_App_Developer-000000?style=flat-square&logo=apple&logoColor=white)   
 
 #### Contact & Social
 [![Mail](https://img.shields.io/badge/Mail-yeniful@icloud.com-3693F3?style=flat-square&logo=iCloud&logoColor=white)](yeniful@icloud.com)   
-[![Blog](https://img.shields.io/badge/Blog-yeniful.tistory.com/-FFCD00?style=flat-square&logo=Kakao&logoColor=white)](https://yeniful.tistory.com/)  
+[![Blog](https://img.shields.io/badge/Blog-yeniful.tistory.com/-FFCD00?style=flat-square&logo=Kakao&logoColor=white)](https://yeniful.tistory.com/)   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yeni%20Hwang-%230A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeni-hwang-9a00ba1b8/)
 
-#### Languages
+<!-- #### Languages and Tools -->
+#### I'm Learning ...
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)   
+![](https://img.shields.io/badge/-UIKit-%23147EFB)
+![](https://img.shields.io/badge/-SwiftUI-%230A66C2)
+![](https://img.shields.io/badge/-Django-%23092E20)
+![](https://img.shields.io/badge/-Vapor-%230D0D0D)
 
-
-#### Tools
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=AdobeXD&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white)
