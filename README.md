@@ -18,7 +18,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)   
 ![](https://img.shields.io/badge/-UIKit-%23147EFB)
 ![](https://img.shields.io/badge/-SwiftUI-%230A66C2)
-![](https://img.shields.io/badge/-Django-%23092E20)
-![](https://img.shields.io/badge/-Vapor-%230D0D0D)
+<!-- ![](https://img.shields.io/badge/-Django-%23092E20)
+![](https://img.shields.io/badge/-Vapor-%230D0D0D) -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeniful&count_bg=%230C52D3&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
