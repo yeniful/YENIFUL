@@ -8,7 +8,7 @@
 
 #### Contact & Social
 [![Mail](https://img.shields.io/badge/Mail-yeniful@icloud.com-3693F3?style=flat-square&logo=iCloud&logoColor=white)](yeniful@icloud.com)   
-[![Blog](https://img.shields.io/badge/Blog-yeniful.tistory.com/-FFCD00?style=flat-square&logo=Kakao&logoColor=white)](https://yeniful.tistory.com/)   
+[![Blog](https://img.shields.io/badge/Blog-yeniful.me-FFCD00?style=flat-square&logo=Notion&logoColor=white)](https://yeniful.me)   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yeni%20Hwang-%230A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeeun-hwang-9a00ba1b8/)
 
 <!-- #### Languages and Tools -->
